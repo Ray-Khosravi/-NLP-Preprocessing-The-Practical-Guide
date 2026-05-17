@@ -1,0 +1,15 @@
+# Core NLP libraries
+nltk>=3.8
+spacy>=3.7
+scikit-learn>=1.3
+
+# Deep learning / Transformers (for the modern-NLP examples)
+torch>=2.0
+transformers>=4.40
+
+# Utilities used in some examples
+numpy>=1.24
+pandas>=2.0
+
+# Optional: nicer terminal output for the demos
+rich>=13.0
